@@ -1,2 +1,2 @@
-# Data-Analysis
-Inclusion of my personal projects which I have accomplished throughout my educational journey
+# Listing the top purchases and co-purchases (combinations of 2 most-bought items together)
+
